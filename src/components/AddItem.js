@@ -55,5 +55,4 @@ class AddItem extends React.Component {
     );
   }
 }
-
 export default AddItem;
